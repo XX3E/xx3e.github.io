@@ -1,0 +1,5 @@
+---
+title: picoCTF
+parent: writeups
+---
+
