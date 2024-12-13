@@ -1,5 +1,5 @@
 ---
-Title: We need more writeups
+title: We need more writeups
 parent: 2024
 ---
 
