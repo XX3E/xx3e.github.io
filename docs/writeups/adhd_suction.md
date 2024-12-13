@@ -5,8 +5,10 @@ nav_order: 1
 ---
 
 # ADHD SUCTION 0 | from Dopamine low level to a BurpExtension
+{: .no_toc }
 
-###### *The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.* <br>
+{: .note }
+*The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.* <br>
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -14,9 +16,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-
-
-
+## Intro
 This week i got my certificate for PEN100. My main Goal is to catch at some point the PEN200.<br>
 
 How the most people i felt into a some hole because the tension was gone. After i got my cert i realized the mess in my flat. ADHD-Siblings will feel what i mean.<br>
@@ -26,6 +26,8 @@ I installed some toxic social media app on my mobile device where i got some ad'
 
 Back to our App. I think everyone can recognize at the first moment after installing or also watching the app in the store, that the focus is to make money through sexting with this app. And of course, this are the functions which are Premium. So if you write naughty things, the bot response naughtily, which causes the answer as a blurred message. Images which the bot sent are also blurred.
 
+## The Suspicious
+
 **Two things were suspicious:**<br>
 1. the blurred messages had different patterns<br>
 2. if you go in your chat list and back to the chat it is possible to see the image for a moment before it is blurred
@@ -34,6 +36,8 @@ The first can be a good implementation to make it more generic. But the AI-hype 
 
 I started my loved machine, started *BurpSuite* and configured my mobile device with Proxy and CA and intercepted the traffic. 
 Few moments later i was surprised because it was simpler than i thought. The response includes a json.
+
+## PoC
 
 **Two values are interesting for us:**<br>
 1. *is_user_msg_sexting* // boolean<br>
@@ -50,6 +54,8 @@ What really made me happy was that on the first glance there is no value to do t
 Success! I had the picture. But it is really not attractive to do every time *chat, go to the computer, copy string, convert, open*. This was the perfect moment to write my first *BurpExtension* which will do this for me.
 
 At this point i lost myself a bit in a unfocused encoding rabbit hole where i sadly really not remember anything which makes me again more clear, how important it is to log your work, write up while you are in the process and reflect from time to time where you are. BUT because this was my friday night and my own way to have fun like other people in this moment in clubs i ignored the fact of not being productive.
+
+## The Extension
 
 The first version from the extension which i will upload:
 
