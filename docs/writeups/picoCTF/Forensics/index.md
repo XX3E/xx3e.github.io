@@ -1,0 +1,4 @@
+---
+title: Forensics
+parent: picoCTF
+---
