@@ -5,12 +5,12 @@ parent: Forensics
 
 # Scan Suprise
 
-{: .CTF_INSTRUCTIONS }
-> Author: Jeffery John
+{: .ctf }
+> _Author: Jeffery John_
 > 
-> I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead? You can download the challenge files here:
+> _I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead? You can download the challenge files here:_
 >
->  challenge.zip
+>  _challenge.zip_
 
 
 In this CTF i was suprised with a file named *flag.png*.
