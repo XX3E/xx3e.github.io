@@ -1,7 +1,6 @@
 ---
 Title: We need more writeups
 parent: 2024
-nav_order: 3
 ---
 
 # Writeups, we need more writeups
