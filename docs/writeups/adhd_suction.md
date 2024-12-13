@@ -1,7 +1,7 @@
 ---
 title: ADHD SUCTION
 parent: writeups
-nav_order:1
+nav_order: 1
 ---
 
 ## ADHD SUCTION 0 | from Dopamine low level to a BurpExtension
