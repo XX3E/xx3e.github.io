@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc }
 
 {: .note }
-*The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.* <br>
+The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.
 
 ## Table of Contents
 {: .no_toc .text-delta }
