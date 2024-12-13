@@ -5,6 +5,8 @@ parent: 2024
 
 # Writeups, we need more writeups
 
+2024-05-19
+
 Since a while now i work to get more and more in infosec. 
 I set my mind on becoming an OSCP years ago. Honestly, it's a good certification that requires a lot of discipline and hard work for me. As I have been working on it for so long, I will continue to work on it and take the exam in the summer again. 
 
