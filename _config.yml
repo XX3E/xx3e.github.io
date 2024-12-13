@@ -30,8 +30,8 @@ callouts:
   new:
     title: New
     color: green
-  CTF_INSTRUCTIONS:
-    title: New
+  ctf:
+    title: CTF_INSTRUCTIONS
     color: green
   note:
     title: Note
