@@ -6,12 +6,7 @@ parent: Forensics
 # Scan Suprise
 
 {: .ctf }
-> _Author: Jeffery John_
-> 
 > _I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead? You can download the challenge files here:_
->
->  _challenge.zip_
-
 
 In this CTF i was suprised with a file named *flag.png*.
 After opening it i found a qr code. Because it is not always possible to open and scan with a camera i searched for a solution to extract the flag from my terminal.
