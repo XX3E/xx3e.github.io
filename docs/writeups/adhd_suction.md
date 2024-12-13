@@ -4,9 +4,17 @@ parent: writeups
 nav_order: 1
 ---
 
-## ADHD SUCTION 0 | from Dopamine low level to a BurpExtension
+# ADHD SUCTION 0 | from Dopamine low level to a BurpExtension
 
-###### *The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.* 
+###### *The Text will describe some random evening and thoughts where i start to follow my interest. I don't include pictures or names because i don't want expose information. I started uploading thoughts, code etc. few days ago after a chat with a friend of mine. So i locked away the perfectionism and started to share things and stop thinking that something will blame me for doing failures in writing something on a blog.* <br>
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 
 
 This week i got my certificate for PEN100. My main Goal is to catch at some point the PEN200.<br>
