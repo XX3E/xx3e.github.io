@@ -1,5 +1,5 @@
 ---
 title: 2024
 parent: blog
-nav_order: 0
+nav_order: 1
 ---
