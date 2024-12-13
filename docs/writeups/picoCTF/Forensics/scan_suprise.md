@@ -6,8 +6,6 @@ parent: Forensics
 # Scan Suprise
 
 {: .CTF_INSTRUCTIONS }
-> CTF Instructions
->
 > Author: Jeffery John
 > 
 > I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead? You can download the challenge files here:
